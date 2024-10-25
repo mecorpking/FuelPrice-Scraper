@@ -22,14 +22,13 @@ source venv/bin/activate  (for macOS/Linux)
 ```bash
 pip install -r requirements.txt
 ```
-### 4. Start Project
+### 4. Other Requirements
+> Nodejs with global access
+### 5. Start Project
 ```
 python main.py
 ```
-### 5. Other Requirements
-> Nodejs with global access
-
-### 6. Intsall dependencies
+### 6. Curl Request
 ```
 curl --location 'localhost:8000/all/<state_name>'
 ```
