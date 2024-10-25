@@ -10,7 +10,7 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/fuelprice-scraper.git
-```bash
+exit
 ### 2. Create Virtual Environment
 ```bash
 python -m venv venv
