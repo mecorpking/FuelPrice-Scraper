@@ -10,4 +10,16 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/yourusername/fuelprice-scraper.git
+```bash
+### 2. Create Virtual Environment
+```bash
 python -m venv venv
+.\venv\Scripts\activate   (for windows)
+source venv/bin/activate  (for macOS/Linux)
+```bash
+### 2. Intsall dependencies 
+```bash
+pip install -r requirements.txt
+```bash
+
+
